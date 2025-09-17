@@ -1,4 +1,11 @@
-<hr>
+
+### This version is merely the verification of PR [1288](https://github.com/JohannesKlauss/react-hotkeys-hook/pull/1288).
+
+<details>
+  <summary>Origin README.md</summary>
+  
+  
+  <hr>
 <div align="center">
   <h1 align="center">
     useHotkeys(keys, callback)
@@ -219,3 +226,6 @@ Project Link: [https://github.com/JohannesKlauss/react-hotkeys-hook](https://git
 <a href="https://github.com/johannesklauss/react-hotkeys-hook/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=johannesklauss/react-hotkeys-hook" />
 </a>
+
+
+</details>
